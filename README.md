@@ -19,5 +19,9 @@ This project analyzes Airbnb listings using **Tableau** to uncover pricing trend
 ## 📌 Key Insights  
 - **Average price per bedroom**  
 - **Price distribution by zip code**  
-- **Revenue trends over time**  
+- **Revenue trends over time**
+
+- - **Dataset Source:** The data is provided via a Google Drive link and stored in Google Sheets, offering a centralized and easily accessible repository.  
+- **Data Attributes:** It contains Airbnb listings details such as pricing, bedroom counts, zip codes, and revenue figures, which enable multi-dimensional analysis.  
+- **Analytical Insights:** The project uses this dataset to uncover key trends like average price per bedroom, price distribution by zip code, and revenue trends over time via an interactive Tableau dashboard.
 
